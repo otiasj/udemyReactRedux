@@ -7,7 +7,7 @@ import SearchBar from './components/search_bar';
 import VideoDetail from './components/video_detail';
 import VideoList from './components/video_list';
 
-const YOUTUBE_API_KEY = 'AIzaSyC1FOf-PnSUfWLx848yWB3DJv9F4mHugDk';
+const YOUTUBE_API_KEY = 'YOUR_YOUTUBE_API_KEY';
 
 // Create a new component. This component should produce some html
 class App extends React.Component {
